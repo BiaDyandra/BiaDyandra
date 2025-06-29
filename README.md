@@ -22,8 +22,9 @@ Também gosto de me organizar e ajudar outras pessoas com seus estudos e desafio
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-dyandra-farias-641b17205/) https://www.linkedin.com/in/bianca-dyandra-farias-641b17205/
-   📧 E-mail: biancagfarias@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/bianca-dyandra-farias-641b17205/
+-  E-mail: biancagfarias@gmail.com
+-  site: https://biadyandra.github.io/BiaDyandra-site/
 
 ---
 
