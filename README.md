@@ -6,8 +6,7 @@
 ## 🚀 Sobre mim
 Sou curiosa, gosto de entender como as coisas funcionam e estou sempre buscando aprender mais. 
 
-Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre aberta a aprender outras tecnologias. 
-Também gosto de me organizar e ajudar outras pessoas com seus estudos e desafios — inclusive com códigos! 💻
+Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre aberta a aprender outras tecnologias. 💻
 
 ## 💡 Interesses
 - Programação
