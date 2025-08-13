@@ -19,11 +19,12 @@ Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre a
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+-  site: https://biadyandra.github.io/BiaDyandra-site/
 -->
 ## 🌐 Onde me encontrar
 -  LinkedIn: https://www.linkedin.com/in/bianca-dyandra-farias-641b17205/
 -  E-mail: biancagfarias@gmail.com
--  site: https://biadyandra.github.io/BiaDyandra-site/
+
 
 ---
 
