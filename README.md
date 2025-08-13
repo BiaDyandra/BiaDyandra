@@ -2,7 +2,7 @@
 
 🎓 Estudante dedicada, apaixonada por tecnologia e pela área de computação!  
 📍 Atualmente em Alfenas- Minas Gerais | 🇧🇷
-
+<!--
 ## 🚀 Sobre mim
 Sou curiosa, gosto de entender como as coisas funcionam e estou sempre buscando aprender mais. 
 
@@ -26,7 +26,7 @@ Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre a
 -  site: https://biadyandra.github.io/BiaDyandra-site/
 
 ---
-
+-->
 > “A tecnologia move o mundo, mas a empatia é o que nos mantém humanos.” 🤍
 
 
