@@ -24,6 +24,7 @@ Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre a
 ## 🌐 Onde me encontrar
 -  LinkedIn: https://www.linkedin.com/in/bianca-dyandra-farias-641b17205/
 -  E-mail: biancagfarias@gmail.com
+-  -  site: https://biadyandra.github.io/BiaDyandra-site/
 
 
 ---
