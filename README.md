@@ -20,7 +20,7 @@ Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre a
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 -  site: https://biadyandra.github.io/BiaDyandra-site/
--->
+
 ## 🌐 Onde me encontrar
 -  LinkedIn: https://www.linkedin.com/in/bianca-dyandra-farias-641b17205/
 -  E-mail: biancagfarias@gmail.com
@@ -32,7 +32,7 @@ Tenho me aprofundado em linguagens como C, html, css, python, mas estou sempre a
 > “A tecnologia move o mundo, mas a empatia é o que nos mantém humanos.” 🤍
 
 
-<!--
+
 **BiaDyandra/BiaDyandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
