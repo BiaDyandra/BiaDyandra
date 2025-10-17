@@ -1,6 +1,6 @@
 # Olá! Eu sou a Bianca Dyandra 🦊
 
-🎓 Estudante dedicada, apaixonada por tecnologia!  
+🎓 Estudante, apaixonada por tecnologia!  
 📍 Atualmente em Alfenas- Minas Gerais | 🇧🇷
 <!--
 ## 🚀 Sobre mim
