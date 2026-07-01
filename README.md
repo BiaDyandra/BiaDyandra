@@ -1,8 +1,48 @@
 # Olá! Eu sou a Bianca Dyandra 🦊
 
+🎓 Estudante de Ciência da Computação na UNIFAL-MG
+💻 Apaixonada por tecnologia, aprendendo e construindo a cada dia
+📍 Alfenas - Minas Gerais | 🇧🇷
+
+---
+
+### 🛠️ Tech Stack
+
+**Linguagens**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Prolog](https://img.shields.io/badge/-Prolog-A6007D?style=flat-square)
+
+**Front-end & UI**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-3776AB?style=flat-square)
+
+**Dados & Infra**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaDyandra&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaDyandra&layout=compact&theme=dark&hide_border=true)
+
+---
+
+✨ Sempre estudando algo novo e explorando diferentes áreas da programação.
+
+
+<!--# Olá! Eu sou a Bianca Dyandra 🦊a
+
 🎓 Estudante, apaixonada por tecnologia!  
 📍 Atualmente em Alfenas- Minas Gerais | 🇧🇷
-<!--
+
 ## 🚀 Sobre mim
 Sou curiosa, gosto de entender como as coisas funcionam e estou sempre buscando aprender mais. 
 
