@@ -1,8 +1,8 @@
 # Olá! Eu sou a Bianca Dyandra 🦊
 
-🎓 Estudante de Ciência da Computação na UNIFAL-MG
-💻 Apaixonada por tecnologia, aprendendo e construindo a cada dia
-📍 Alfenas - Minas Gerais | 🇧🇷
+-🎓 Estudante de Ciência da Computação na UNIFAL-MG 
+-💻 Apaixonada por tecnologia, aprendendo e construindo a cada dia
+-📍 Alfenas - Minas Gerais | 🇧🇷
 
 ---
 
@@ -25,13 +25,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaDyandra&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaDyandra&layout=compact&theme=dark&hide_border=true)
 
 ---
 
