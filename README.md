@@ -1,8 +1,10 @@
 # Olá! Eu sou a Bianca Dyandra 🦊
 
--🎓 Estudante de Ciência da Computação na UNIFAL-MG 
--💻 Apaixonada por tecnologia, aprendendo e construindo a cada dia
--📍 Alfenas - Minas Gerais | 🇧🇷
+🎓 Estudante de Ciência da Computação na UNIFAL-MG 
+
+💻 Apaixonada por tecnologia, aprendendo e construindo a cada dia
+
+📍 Alfenas - Minas Gerais | 🇧🇷
 
 ---
 
